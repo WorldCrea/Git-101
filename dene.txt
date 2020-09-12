@@ -1,0 +1,1 @@
+Yerel depodan uzak depoya ssh ile gönderme işleminin tekrarı ve kodlarını gözden geçirdik.
